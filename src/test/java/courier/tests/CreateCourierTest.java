@@ -14,7 +14,7 @@ public class CreateCourierTest {
     private CourierMethods courierMethods;
     private CourierModel courierModel;
     private Courier courier;
-    int courierId;
+    private int courierId;
 
     @Before
     @Step("Creating test courier data ")
