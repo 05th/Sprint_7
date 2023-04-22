@@ -1,6 +1,6 @@
 package constants;
 
-public class endPoints {
+public class EndPoints {
     public final static String URL = "http://qa-scooter.praktikum-services.ru/";
     public final static String COURIER_LOGIN = "/api/v1/courier/login";
     public final static String COURIER_CREATE = "/api/v1/courier";
